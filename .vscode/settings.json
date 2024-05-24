@@ -1,0 +1,5 @@
+// Cấu hình để chạy prettier
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
